@@ -29,4 +29,4 @@ The **Hospital Management System (HMS)** is a Java-based application designed to
 - Mobile app support for patient records
 
 ## License
-This project is open-source. Feel free to contribute and improve it.
+This project is Owned By ©Bishal Bhati
